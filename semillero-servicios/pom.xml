@@ -77,6 +77,13 @@
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
         </dependency>
+		<!-- DEPENDENCIAS ORM hibernate< -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>5.2.12.Final</version>
+		</dependency>
+
 	</dependencies>
 
 </project>
